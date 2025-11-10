@@ -69,4 +69,14 @@ footer {
 .btn-primary:hover {
   background: #003f80;
 }
+.lang-switch {
+  font-weight: bold;
+  border: 1px solid #0056b3;
+  padding: 4px 8px;
+  border-radius: 5px;
+}
+.lang-switch:hover {
+  background: #0056b3;
+  color: #fff;
+}
 
