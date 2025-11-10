@@ -79,4 +79,13 @@ footer {
   background: #0056b3;
   color: #fff;
 }
+.social-icons a {
+  margin: 0 8px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #0056b3;
+}
+.social-icons a:hover {
+  text-decoration: underline;
+}
 
