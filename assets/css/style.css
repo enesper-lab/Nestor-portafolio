@@ -57,4 +57,16 @@ footer {
 .project-card ul {
   margin-left: 20px;
 }
+.btn-primary {
+  background: #0056b3;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.2s;
+}
+.btn-primary:hover {
+  background: #003f80;
+}
 
