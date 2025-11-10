@@ -85,6 +85,12 @@ footer {
   text-decoration: none;
   color: #0056b3;
 }
+.hero {
+  padding: 120px 0;
+  text-align: center;
+  background: #f7f9fc;
+}
+
 .social-icons a:hover {
   text-decoration: underline;
 }
